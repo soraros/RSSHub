@@ -74,7 +74,13 @@
     "/audiobar/latest": [
         "zxzhuty"
     ],
+    "/bandcamp/tag/:tag?": [
+        "nczitzk"
+    ],
     "/bandcamp/live": [
+        "nczitzk"
+    ],
+    "/bandcamp/weekly": [
         "nczitzk"
     ],
     "/baozimh/comic/:name": [
@@ -143,6 +149,9 @@
         "kt286"
     ],
     "/chaoxing/qk/:id/:needContent?": [
+        "nczitzk"
+    ],
+    "/ciidbnu/:id?": [
         "nczitzk"
     ],
     "/cnbeta/": [
@@ -920,6 +929,12 @@
     "/shopback/:store": [
         "nczitzk"
     ],
+    "/sicau/dky/:category?": [
+        "nczitzk"
+    ],
+    "/sicau/yan/:category?": [
+        "nczitzk"
+    ],
     "/sicau/zsjy/:category?": [
         "nczitzk"
     ],
@@ -1007,6 +1022,9 @@
     ],
     "/timednews/news/:type?": [
         "linbuxiao"
+    ],
+    "/tisi/latest": [
+        "Fatpandac"
     ],
     "/topys/:keyword?": [
         "nczitzk"
@@ -2990,7 +3008,6 @@
     "/wanwansub/:id?": [],
     "/zimuxia/portfolio/:id": [],
     "/zimuxia/:category?": [],
-    "/bandcamp/tag/:tag?": [],
     "/hugo/releases": [],
     "/tongli/news/:type": [],
     "/or/:id?": [],
